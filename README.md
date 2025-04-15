@@ -4,7 +4,10 @@ This repo is a home for coordinating efforts around long-term, ongoing maintenan
 
 ## Problem
 
-Some key web-platform specs lack active maintenance.  Lacking that is causing significant pain/frustration/trouble for implementors trying to implement the specs, and is leading to problems such as lack of interoperability among implementations, and pain/frustration/trouble for web developers trying to develop content based on the specs.
+Some key web-platform specs lack active maintenance.  Lacking that is causing:
+- significant pain/frustration/trouble for implementors trying to implement the specs
+- problems such as lack of interoperability among implementations
+- pain/frustration/trouble for web developers trying to develop content based on the specs.
 <details>
   <summary>General problem</summary>
 
