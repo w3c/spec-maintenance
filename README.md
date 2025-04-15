@@ -7,7 +7,7 @@ This repo is a home for coordinating efforts around long-term, ongoing maintenan
 Some key web specs lack active maintenance — which is causing:
 - significant pain/frustration/trouble for implementors trying to implement the specs
 - problems such as lack of interoperability among implementations
-- pain/frustration/trouble for web developers trying to develop content based on the specs.
+- pain/frustration/trouble for web developers trying to develop content based on the specs
 <details>
   <summary>General problem</summary>
 
