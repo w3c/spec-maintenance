@@ -11,7 +11,7 @@ Some key web specs lack active maintenance — which is causing:
 <details>
   <summary>General problem</summary>
 
-  And in general, across all the organizations that are creating and publishing specs for the web platform, we need to be putting more discipline into creating more systematic ways to support and encourage ongoing maintenance of existing specs — and into burning down more technical debt — rather than just focusing all energy on creating yet more new specs for whatever the shiniest new feature are at the moment (and then over time just ending up neglecting those too — after the major engines all have implementations and the feature in those spec are not the new and shiny any longer.
+  Across all the organizations that are creating and publishing specs for the web platform, we need to be putting more discipline into creating more systematic ways to support and encourage ongoing maintenance of existing specs — and into burning down more technical debt — rather than just focusing all energy on creating yet more new specs for whatever the shiniest new feature are at the moment (and then over time just ending up neglecting those too — after the major engines all have implementations and the feature in those spec are not the new and shiny any longer.
 </details>
 
 ## Specs
