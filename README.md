@@ -5,8 +5,11 @@ This repo is a home for coordinating efforts around long-term, ongoing maintenan
 ## Problem
 
 A number of important specs for the web platform are in need of much more-active maintenance. The lack of active maintenance of those specs is causing significant pain/frustration/trouble for implementors trying to implement the specs, and is leading to problems such as lack of interoperability among implementations, and pain/frustration/trouble for web developers trying to develop content based on the specs.
+<details>
+  <summary>General problem</summary>
 
-And in general, across all the organizations that are creating and publishing specs for the web platform, we need to be putting more discipline into creating more systematic ways to support and encourage ongoing maintenance of existing specs — and into burning down more technical debt — rather than just focusing all energy on creating yet more new specs for whatever the shiniest new feature are at the moment (and then over time just ending up neglecting those too — after the major engines all have implementations and the feature in those spec are not the new and shiny any longer.
+  And in general, across all the organizations that are creating and publishing specs for the web platform, we need to be putting more discipline into creating more systematic ways to support and encourage ongoing maintenance of existing specs — and into burning down more technical debt — rather than just focusing all energy on creating yet more new specs for whatever the shiniest new feature are at the moment (and then over time just ending up neglecting those too — after the major engines all have implementations and the feature in those spec are not the new and shiny any longer.
+</details>
 
 ## Specs
 
